@@ -1,0 +1,50 @@
+.header {
+  background-image: url(Pics/dark-background.jpg);
+  height: 300px;
+  background-size: cover;
+}
+.navbar-brand {
+
+  color: lightblue;
+
+}
+.navbar-nav > li > a {
+
+  color: lightgrey;
+}
+.navbar-nav > li > a:hover {
+
+  text-decoration: underline;
+}
+
+.page-footer > .row > .col {
+  background-color: lightgrey;
+  color: #3d9970;
+  height: 180px;
+  font-size: 200%;
+}
+
+.page-footer > .row > .footer-copyright > .luk{
+  color: lightblue;
+
+}
+
+.row >  .footer-copyright {
+  background-color: grey;
+  color: white;
+  height: 50px;
+}
+
+.avatar > .img-circle {
+  width: 250px;
+  height: 330px;
+  margin-left: 15px;
+}
+.card-body > .card-title {
+  margin-left: 40px;
+  color: indigo;
+  font-size: 150%;
+}
+.card-body > .card-title > .card-text {
+  margin-left: 25px;
+}
