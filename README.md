@@ -3,7 +3,7 @@ Author Name: Lukwiya Sunday
 Project Name: Using bootstrap
 Description: This project handles introduction into bootstrap as a library for designing good looking quality professional websites without having to write the css from scratch.
 
-link to github pages:
+link to github pages: https://github.com/SMLukwiya/using-bootstrap/tree/gh-pages
 
 copyright and license information
 This website and its content is copyright of [Lukwiya Sunday] - © [SMLukwiya] [2019]. All rights reserved.
